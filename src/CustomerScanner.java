@@ -14,7 +14,7 @@ public class CustomerScanner {
         System.out.println("Podaj pierwszą liczbe ");
         int firstName = scanner.nextInt();
         int result = firstName * firstName;
-        System.out.println("Kwadrat tej liczby to " + result + "!");
+        System.out.println("Kwadrat tej liczby to" + result + "!");
 
 
     }
