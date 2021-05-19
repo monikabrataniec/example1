@@ -6,9 +6,7 @@ public class Student {
     public String email;
     public int numerIndeksu;
 
-    public void przedstawSie() {
-        System.out.println("Nazwyam sie " + imie + " " + nazwisko);
-    }
+    public void przedstawSie() { System.out.println("Nazwyam sie " + imie + " " + nazwisko); }
     public void zalogujSie() {
         System.out.println("Logujesz sie za pomoca " + nick);
     }
